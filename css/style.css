@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Source+Sans+Pro');
+
+body {
+  background-color: #222;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Source Sans Pro', Georgia, serif;
+  font-family: 'Playfair Display', Georgia, serif;
+}
+
+h1, h2 {
+  color: #590290;
+}
+
+.carousel-caption h3,
+.carousel-caption p {
+  color: rgb(45,45,162);
+}
+
+.container-fluid { 
+	padding-left: 0; 
+	padding-right: 0;
+	overflow-x: hidden;
+}
+
+.navbar{
+    margin-bottom:0 !important;
+}
